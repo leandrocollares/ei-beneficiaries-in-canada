@@ -1,0 +1,464 @@
+geography,date,beneficiaries
+Canada,2019-01,441480
+Canada,2019-02,450560
+Canada,2019-03,446670
+Canada,2019-04,444440
+Canada,2019-05,447830
+Canada,2019-06,448870
+Canada,2019-07,455180
+Canada,2019-08,455620
+Canada,2019-09,452510
+Canada,2019-10,453390
+Canada,2019-11,454810
+Canada,2019-12,452860
+Canada,2020-01,454360
+Canada,2020-02,446290
+Canada,2020-03,524870
+Canada,2020-04,673120
+Canada,2020-05,573940
+Canada,2020-06,448650
+Canada,2020-07,234770
+Canada,2020-08,158520
+Canada,2020-09,252860
+Canada,2020-10,1332320
+Canada,2020-11,1312220
+Canada,2020-12,1358760
+Canada,2021-01,1538800
+Canada,2021-02,1586930
+Canada,2021-03,1505390
+Canada,2021-04,1630850
+Canada,2021-05,1679140
+Canada,2021-06,1622760
+Canada,2021-07,1543140
+Canada,2021-08,1468400
+Canada,2021-09,1281880
+Alberta,2019-01,50710
+Alberta,2019-02,52290
+Alberta,2019-03,52080
+Alberta,2019-04,51070
+Alberta,2019-05,49810
+Alberta,2019-06,49230
+Alberta,2019-07,50270
+Alberta,2019-08,50690
+Alberta,2019-09,49550
+Alberta,2019-10,50280
+Alberta,2019-11,51360
+Alberta,2019-12,52460
+Alberta,2020-01,54040
+Alberta,2020-02,53760
+Alberta,2020-03,61540
+Alberta,2020-04,69870
+Alberta,2020-05,62680
+Alberta,2020-06,52570
+Alberta,2020-07,28880
+Alberta,2020-08,24870
+Alberta,2020-09,31310
+Alberta,2020-10,173540
+Alberta,2020-11,175070
+Alberta,2020-12,183670
+Alberta,2021-01,208240
+Alberta,2021-02,206990
+Alberta,2021-03,197770
+Alberta,2021-04,199820
+Alberta,2021-05,205230
+Alberta,2021-06,189430
+Alberta,2021-07,184030
+Alberta,2021-08,176850
+Alberta,2021-09,148130
+British Columbia,2019-01,40010
+British Columbia,2019-02,41820
+British Columbia,2019-03,41960
+British Columbia,2019-04,41300
+British Columbia,2019-05,41280
+British Columbia,2019-06,41740
+British Columbia,2019-07,42940
+British Columbia,2019-08,42500
+British Columbia,2019-09,41550
+British Columbia,2019-10,42250
+British Columbia,2019-11,42010
+British Columbia,2019-12,42620
+British Columbia,2020-01,43540
+British Columbia,2020-02,41740
+British Columbia,2020-03,53820
+British Columbia,2020-04,57920
+British Columbia,2020-05,50880
+British Columbia,2020-06,40410
+British Columbia,2020-07,22190
+British Columbia,2020-08,14980
+British Columbia,2020-09,20040
+British Columbia,2020-10,167810
+British Columbia,2020-11,156710
+British Columbia,2020-12,151730
+British Columbia,2021-01,147520
+British Columbia,2021-02,162480
+British Columbia,2021-03,167490
+British Columbia,2021-04,182000
+British Columbia,2021-05,190870
+British Columbia,2021-06,191740
+British Columbia,2021-07,169460
+British Columbia,2021-08,161770
+British Columbia,2021-09,153040
+Manitoba,2019-01,15840
+Manitoba,2019-02,15880
+Manitoba,2019-03,16120
+Manitoba,2019-04,15700
+Manitoba,2019-05,15540
+Manitoba,2019-06,15500
+Manitoba,2019-07,15630
+Manitoba,2019-08,15590
+Manitoba,2019-09,15310
+Manitoba,2019-10,15460
+Manitoba,2019-11,15550
+Manitoba,2019-12,15600
+Manitoba,2020-01,15550
+Manitoba,2020-02,15550
+Manitoba,2020-03,16510
+Manitoba,2020-04,18290
+Manitoba,2020-05,17820
+Manitoba,2020-06,16550
+Manitoba,2020-07,4600
+Manitoba,2020-08,2760
+Manitoba,2020-09,8820
+Manitoba,2020-10,39860
+Manitoba,2020-11,43490
+Manitoba,2020-12,49950
+Manitoba,2021-01,51720
+Manitoba,2021-02,50840
+Manitoba,2021-03,49030
+Manitoba,2021-04,49270
+Manitoba,2021-05,50740
+Manitoba,2021-06,51280
+Manitoba,2021-07,50600
+Manitoba,2021-08,48400
+Manitoba,2021-09,42060
+New Brunswick,2019-01,29390
+New Brunswick,2019-02,28950
+New Brunswick,2019-03,28480
+New Brunswick,2019-04,28790
+New Brunswick,2019-05,28600
+New Brunswick,2019-06,28370
+New Brunswick,2019-07,29850
+New Brunswick,2019-08,29870
+New Brunswick,2019-09,30580
+New Brunswick,2019-10,30800
+New Brunswick,2019-11,30940
+New Brunswick,2019-12,29830
+New Brunswick,2020-01,29840
+New Brunswick,2020-02,29940
+New Brunswick,2020-03,32000
+New Brunswick,2020-04,34850
+New Brunswick,2020-05,35740
+New Brunswick,2020-06,27590
+New Brunswick,2020-07,18940
+New Brunswick,2020-08,15150
+New Brunswick,2020-09,12220
+New Brunswick,2020-10,52720
+New Brunswick,2020-11,46620
+New Brunswick,2020-12,46690
+New Brunswick,2021-01,45630
+New Brunswick,2021-02,50500
+New Brunswick,2021-03,53420
+New Brunswick,2021-04,55500
+New Brunswick,2021-05,66010
+New Brunswick,2021-06,78760
+New Brunswick,2021-07,65010
+New Brunswick,2021-08,68020
+New Brunswick,2021-09,69040
+Newfoundland and Labrador,2019-01,34000
+Newfoundland and Labrador,2019-02,33920
+Newfoundland and Labrador,2019-03,33900
+Newfoundland and Labrador,2019-04,33310
+Newfoundland and Labrador,2019-05,33220
+Newfoundland and Labrador,2019-06,33280
+Newfoundland and Labrador,2019-07,33010
+Newfoundland and Labrador,2019-08,33080
+Newfoundland and Labrador,2019-09,32870
+Newfoundland and Labrador,2019-10,32880
+Newfoundland and Labrador,2019-11,32820
+Newfoundland and Labrador,2019-12,32330
+Newfoundland and Labrador,2020-01,32530
+Newfoundland and Labrador,2020-02,32200
+Newfoundland and Labrador,2020-03,34560
+Newfoundland and Labrador,2020-04,40340
+Newfoundland and Labrador,2020-05,36930
+Newfoundland and Labrador,2020-06,31670
+Newfoundland and Labrador,2020-07,26390
+Newfoundland and Labrador,2020-08,22180
+Newfoundland and Labrador,2020-09,20360
+Newfoundland and Labrador,2020-10,46250
+Newfoundland and Labrador,2020-11,43740
+Newfoundland and Labrador,2020-12,44980
+Newfoundland and Labrador,2021-01,45550
+Newfoundland and Labrador,2021-02,55590
+Newfoundland and Labrador,2021-03,55240
+Newfoundland and Labrador,2021-04,54630
+Newfoundland and Labrador,2021-05,54100
+Newfoundland and Labrador,2021-06,57060
+Newfoundland and Labrador,2021-07,57930
+Newfoundland and Labrador,2021-08,58630
+Newfoundland and Labrador,2021-09,58160
+Northwest Territories,2019-01,730
+Northwest Territories,2019-02,750
+Northwest Territories,2019-03,760
+Northwest Territories,2019-04,750
+Northwest Territories,2019-05,740
+Northwest Territories,2019-06,750
+Northwest Territories,2019-07,750
+Northwest Territories,2019-08,710
+Northwest Territories,2019-09,720
+Northwest Territories,2019-10,710
+Northwest Territories,2019-11,720
+Northwest Territories,2019-12,710
+Northwest Territories,2020-01,710
+Northwest Territories,2020-02,690
+Northwest Territories,2020-03,710
+Northwest Territories,2020-04,680
+Northwest Territories,2020-05,590
+Northwest Territories,2020-06,480
+Northwest Territories,2020-07,370
+Northwest Territories,2020-08,310
+Northwest Territories,2020-09,240
+Northwest Territories,2020-10,1480
+Northwest Territories,2020-11,1490
+Northwest Territories,2020-12,1540
+Northwest Territories,2021-01,1450
+Northwest Territories,2021-02,1470
+Northwest Territories,2021-03,1570
+Northwest Territories,2021-04,1680
+Northwest Territories,2021-05,1780
+Northwest Territories,2021-06,1840
+Northwest Territories,2021-07,1860
+Northwest Territories,2021-08,1900
+Northwest Territories,2021-09,1380
+Nova Scotia,2019-01,26750
+Nova Scotia,2019-02,26740
+Nova Scotia,2019-03,25490
+Nova Scotia,2019-04,26260
+Nova Scotia,2019-05,25710
+Nova Scotia,2019-06,25390
+Nova Scotia,2019-07,25860
+Nova Scotia,2019-08,26000
+Nova Scotia,2019-09,25800
+Nova Scotia,2019-10,25460
+Nova Scotia,2019-11,25900
+Nova Scotia,2019-12,25650
+Nova Scotia,2020-01,25550
+Nova Scotia,2020-02,25490
+Nova Scotia,2020-03,27960
+Nova Scotia,2020-04,30390
+Nova Scotia,2020-05,30280
+Nova Scotia,2020-06,21520
+Nova Scotia,2020-07,13430
+Nova Scotia,2020-08,10250
+Nova Scotia,2020-09,8960
+Nova Scotia,2020-10,51310
+Nova Scotia,2020-11,44950
+Nova Scotia,2020-12,47030
+Nova Scotia,2021-01,43980
+Nova Scotia,2021-02,46040
+Nova Scotia,2021-03,48670
+Nova Scotia,2021-04,52080
+Nova Scotia,2021-05,76520
+Nova Scotia,2021-06,76940
+Nova Scotia,2021-07,65240
+Nova Scotia,2021-08,62790
+Nova Scotia,2021-09,63310
+Nunavut,2019-01,450
+Nunavut,2019-02,460
+Nunavut,2019-03,480
+Nunavut,2019-04,470
+Nunavut,2019-05,490
+Nunavut,2019-06,490
+Nunavut,2019-07,490
+Nunavut,2019-08,470
+Nunavut,2019-09,470
+Nunavut,2019-10,490
+Nunavut,2019-11,470
+Nunavut,2019-12,470
+Nunavut,2020-01,470
+Nunavut,2020-02,450
+Nunavut,2020-03,470
+Nunavut,2020-04,460
+Nunavut,2020-05,410
+Nunavut,2020-06,330
+Nunavut,2020-07,220
+Nunavut,2020-08,180
+Nunavut,2020-09,160
+Nunavut,2020-10,730
+Nunavut,2020-11,690
+Nunavut,2020-12,740
+Nunavut,2021-01,750
+Nunavut,2021-02,820
+Nunavut,2021-03,870
+Nunavut,2021-04,910
+Nunavut,2021-05,990
+Nunavut,2021-06,1120
+Nunavut,2021-07,1130
+Nunavut,2021-08,1230
+Nunavut,2021-09,1190
+Ontario,2019-01,111230
+Ontario,2019-02,116860
+Ontario,2019-03,117690
+Ontario,2019-04,116790
+Ontario,2019-05,119300
+Ontario,2019-06,120090
+Ontario,2019-07,122520
+Ontario,2019-08,120500
+Ontario,2019-09,121530
+Ontario,2019-10,122590
+Ontario,2019-11,122480
+Ontario,2019-12,122720
+Ontario,2020-01,124900
+Ontario,2020-02,121190
+Ontario,2020-03,144690
+Ontario,2020-04,187730
+Ontario,2020-05,166100
+Ontario,2020-06,124120
+Ontario,2020-07,40310
+Ontario,2020-08,20810
+Ontario,2020-09,70920
+Ontario,2020-10,458770
+Ontario,2020-11,458470
+Ontario,2020-12,481580
+Ontario,2021-01,564920
+Ontario,2021-02,598630
+Ontario,2021-03,535270
+Ontario,2021-04,637130
+Ontario,2021-05,628620
+Ontario,2021-06,588490
+Ontario,2021-07,548870
+Ontario,2021-08,511570
+Ontario,2021-09,413850
+Prince Edward Island,2019-01,8060
+Prince Edward Island,2019-02,8000
+Prince Edward Island,2019-03,7760
+Prince Edward Island,2019-04,7650
+Prince Edward Island,2019-05,7600
+Prince Edward Island,2019-06,7530
+Prince Edward Island,2019-07,7610
+Prince Edward Island,2019-08,7720
+Prince Edward Island,2019-09,7840
+Prince Edward Island,2019-10,7830
+Prince Edward Island,2019-11,7840
+Prince Edward Island,2019-12,7610
+Prince Edward Island,2020-01,7640
+Prince Edward Island,2020-02,7590
+Prince Edward Island,2020-03,7770
+Prince Edward Island,2020-04,8000
+Prince Edward Island,2020-05,9170
+Prince Edward Island,2020-06,6820
+Prince Edward Island,2020-07,4150
+Prince Edward Island,2020-08,3180
+Prince Edward Island,2020-09,2480
+Prince Edward Island,2020-10,11770
+Prince Edward Island,2020-11,10260
+Prince Edward Island,2020-12,10140
+Prince Edward Island,2021-01,10100
+Prince Edward Island,2021-02,10910
+Prince Edward Island,2021-03,11740
+Prince Edward Island,2021-04,12240
+Prince Edward Island,2021-05,16170
+Prince Edward Island,2021-06,19310
+Prince Edward Island,2021-07,15360
+Prince Edward Island,2021-08,16240
+Prince Edward Island,2021-09,15730
+Québec,2019-01,107460
+Québec,2019-02,107970
+Québec,2019-03,105140
+Québec,2019-04,106080
+Québec,2019-05,109200
+Québec,2019-06,110250
+Québec,2019-07,109800
+Québec,2019-08,111980
+Québec,2019-09,110020
+Québec,2019-10,108210
+Québec,2019-11,107660
+Québec,2019-12,105650
+Québec,2020-01,102300
+Québec,2020-02,100560
+Québec,2020-03,126940
+Québec,2020-04,203950
+Québec,2020-05,145800
+Québec,2020-06,111530
+Québec,2020-07,67080
+Québec,2020-08,37110
+Québec,2020-09,67570
+Québec,2020-10,290920
+Québec,2020-11,293300
+Québec,2020-12,302210
+Québec,2021-01,378370
+Québec,2021-02,358760
+Québec,2021-03,341450
+Québec,2021-04,342440
+Québec,2021-05,345900
+Québec,2021-06,324790
+Québec,2021-07,340400
+Québec,2021-08,318080
+Québec,2021-09,277590
+Saskatchewan,2019-01,15970
+Saskatchewan,2019-02,16040
+Saskatchewan,2019-03,15930
+Saskatchewan,2019-04,15400
+Saskatchewan,2019-05,15480
+Saskatchewan,2019-06,15430
+Saskatchewan,2019-07,15620
+Saskatchewan,2019-08,15670
+Saskatchewan,2019-09,15480
+Saskatchewan,2019-10,15690
+Saskatchewan,2019-11,16310
+Saskatchewan,2019-12,16480
+Saskatchewan,2020-01,16500
+Saskatchewan,2020-02,16340
+Saskatchewan,2020-03,17090
+Saskatchewan,2020-04,19640
+Saskatchewan,2020-05,16580
+Saskatchewan,2020-06,14140
+Saskatchewan,2020-07,7470
+Saskatchewan,2020-08,6100
+Saskatchewan,2020-09,9170
+Saskatchewan,2020-10,35410
+Saskatchewan,2020-11,35640
+Saskatchewan,2020-12,36610
+Saskatchewan,2021-01,38570
+Saskatchewan,2021-02,41640
+Saskatchewan,2021-03,40530
+Saskatchewan,2021-04,40580
+Saskatchewan,2021-05,39580
+Saskatchewan,2021-06,39260
+Saskatchewan,2021-07,39890
+Saskatchewan,2021-08,40050
+Saskatchewan,2021-09,35390
+Yukon,2019-01,640
+Yukon,2019-02,630
+Yukon,2019-03,650
+Yukon,2019-04,630
+Yukon,2019-05,620
+Yukon,2019-06,610
+Yukon,2019-07,610
+Yukon,2019-08,610
+Yukon,2019-09,590
+Yukon,2019-10,570
+Yukon,2019-11,590
+Yukon,2019-12,580
+Yukon,2020-01,570
+Yukon,2020-02,560
+Yukon,2020-03,580
+Yukon,2020-04,660
+Yukon,2020-05,630
+Yukon,2020-06,590
+Yukon,2020-07,490
+Yukon,2020-08,450
+Yukon,2020-09,430
+Yukon,2020-10,1240
+Yukon,2020-11,1280
+Yukon,2020-12,1360
+Yukon,2021-01,1370
+Yukon,2021-02,1480
+Yukon,2021-03,1520
+Yukon,2021-04,1630
+Yukon,2021-05,1550
+Yukon,2021-06,1560
+Yukon,2021-07,1500
+Yukon,2021-08,1480
+Yukon,2021-09,1370
+																											
