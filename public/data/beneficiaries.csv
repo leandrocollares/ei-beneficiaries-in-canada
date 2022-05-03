@@ -30,8 +30,11 @@ Canada,2021-04,1630850
 Canada,2021-05,1679140
 Canada,2021-06,1622760
 Canada,2021-07,1543140
-Canada,2021-08,1468400
-Canada,2021-09,1281880
+Canada,2021-08,1479020
+Canada,2021-09,1298100
+Canada,2021-10,756220
+Canada,2021-11,706520
+Canada,2021-12,652740	
 Alberta,2019-01,50710
 Alberta,2019-02,52290
 Alberta,2019-03,52080
@@ -63,8 +66,11 @@ Alberta,2021-04,199820
 Alberta,2021-05,205230
 Alberta,2021-06,189430
 Alberta,2021-07,184030
-Alberta,2021-08,176850
-Alberta,2021-09,148130
+Alberta,2021-08,177960	
+Alberta,2021-09,149890
+Alberta,2021-10,85090
+Alberta,2021-11,81100
+Alberta,2021-12,74480
 British Columbia,2019-01,40010
 British Columbia,2019-02,41820
 British Columbia,2019-03,41960
@@ -96,8 +102,11 @@ British Columbia,2021-04,182000
 British Columbia,2021-05,190870
 British Columbia,2021-06,191740
 British Columbia,2021-07,169460
-British Columbia,2021-08,161770
-British Columbia,2021-09,153040
+British Columbia,2021-08,162990	
+British Columbia,2021-09,155190
+British Columbia,2021-10,76730
+British Columbia,2021-11,68340	
+British Columbia,2021-12,61610
 Manitoba,2019-01,15840
 Manitoba,2019-02,15880
 Manitoba,2019-03,16120
@@ -129,8 +138,11 @@ Manitoba,2021-04,49270
 Manitoba,2021-05,50740
 Manitoba,2021-06,51280
 Manitoba,2021-07,50600
-Manitoba,2021-08,48400
-Manitoba,2021-09,42060
+Manitoba,2021-08,48660
+Manitoba,2021-09,42580
+Manitoba,2021-10,26110
+Manitoba,2021-11,23560
+Manitoba,2021-12,22020
 New Brunswick,2019-01,29390
 New Brunswick,2019-02,28950
 New Brunswick,2019-03,28480
@@ -162,8 +174,11 @@ New Brunswick,2021-04,55500
 New Brunswick,2021-05,66010
 New Brunswick,2021-06,78760
 New Brunswick,2021-07,65010
-New Brunswick,2021-08,68020
-New Brunswick,2021-09,69040
+New Brunswick,2021-08,68570
+New Brunswick,2021-09,70590
+New Brunswick,2021-10,44990
+New Brunswick,2021-11,40960
+New Brunswick,2021-12,38690
 Newfoundland and Labrador,2019-01,34000
 Newfoundland and Labrador,2019-02,33920
 Newfoundland and Labrador,2019-03,33900
@@ -195,8 +210,11 @@ Newfoundland and Labrador,2021-04,54630
 Newfoundland and Labrador,2021-05,54100
 Newfoundland and Labrador,2021-06,57060
 Newfoundland and Labrador,2021-07,57930
-Newfoundland and Labrador,2021-08,58630
-Newfoundland and Labrador,2021-09,58160
+Newfoundland and Labrador,2021-08,58860
+Newfoundland and Labrador,2021-09,58540
+Newfoundland and Labrador,2021-10,43830
+Newfoundland and Labrador,2021-11,41010
+Newfoundland and Labrador,2021-12,39160
 Northwest Territories,2019-01,730
 Northwest Territories,2019-02,750
 Northwest Territories,2019-03,760
@@ -228,8 +246,11 @@ Northwest Territories,2021-04,1680
 Northwest Territories,2021-05,1780
 Northwest Territories,2021-06,1840
 Northwest Territories,2021-07,1860
-Northwest Territories,2021-08,1900
-Northwest Territories,2021-09,1380
+Northwest Territories,2021-08,1920
+Northwest Territories,2021-09,1820
+Northwest Territories,2021-10,1120
+Northwest Territories,2021-11,1020
+Northwest Territories,2021-12,1000
 Nova Scotia,2019-01,26750
 Nova Scotia,2019-02,26740
 Nova Scotia,2019-03,25490
@@ -260,9 +281,12 @@ Nova Scotia,2021-03,48670
 Nova Scotia,2021-04,52080
 Nova Scotia,2021-05,76520
 Nova Scotia,2021-06,76940
-Nova Scotia,2021-07,65240
-Nova Scotia,2021-08,62790
-Nova Scotia,2021-09,63310
+Nova Scotia,2021-07,65540
+Nova Scotia,2021-08,63180
+Nova Scotia,2021-09,63940
+Nova Scotia,2021-10,39580
+Nova Scotia,2021-11,34770
+Nova Scotia,2021-12,32940
 Nunavut,2019-01,450
 Nunavut,2019-02,460
 Nunavut,2019-03,480
@@ -295,7 +319,10 @@ Nunavut,2021-05,990
 Nunavut,2021-06,1120
 Nunavut,2021-07,1130
 Nunavut,2021-08,1230
-Nunavut,2021-09,1190
+Nunavut,2021-09,1200
+Nunavut,2021-10,740
+Nunavut,2021-11,710
+Nunavut,2021-12,650
 Ontario,2019-01,111230
 Ontario,2019-02,116860
 Ontario,2019-03,117690
@@ -327,8 +354,11 @@ Ontario,2021-04,637130
 Ontario,2021-05,628620
 Ontario,2021-06,588490
 Ontario,2021-07,548870
-Ontario,2021-08,511570
-Ontario,2021-09,413850
+Ontario,2021-08,514610
+Ontario,2021-09,418210
+Ontario,2021-10,221840
+Ontario,2021-11,210410	
+Ontario,2021-12,191050
 Prince Edward Island,2019-01,8060
 Prince Edward Island,2019-02,8000
 Prince Edward Island,2019-03,7760
@@ -360,8 +390,11 @@ Prince Edward Island,2021-04,12240
 Prince Edward Island,2021-05,16170
 Prince Edward Island,2021-06,19310
 Prince Edward Island,2021-07,15360
-Prince Edward Island,2021-08,16240
-Prince Edward Island,2021-09,15730
+Prince Edward Island,2021-08,16380
+Prince Edward Island,2021-09,16100
+Prince Edward Island,2021-10,10530
+Prince Edward Island,2021-11,9430
+Prince Edward Island,2021-12,8930
 Québec,2019-01,107460
 Québec,2019-02,107970
 Québec,2019-03,105140
@@ -393,8 +426,11 @@ Québec,2021-04,342440
 Québec,2021-05,345900
 Québec,2021-06,324790
 Québec,2021-07,340400
-Québec,2021-08,318080
-Québec,2021-09,277590
+Québec,2021-08,321280
+Québec,2021-09,281430
+Québec,2021-10,181160
+Québec,2021-11,171540
+Québec,2021-12,159610
 Saskatchewan,2019-01,15970
 Saskatchewan,2019-02,16040
 Saskatchewan,2019-03,15930
@@ -426,8 +462,11 @@ Saskatchewan,2021-04,40580
 Saskatchewan,2021-05,39580
 Saskatchewan,2021-06,39260
 Saskatchewan,2021-07,39890
-Saskatchewan,2021-08,40050
-Saskatchewan,2021-09,35390
+Saskatchewan,2021-08,40250
+Saskatchewan,2021-09,35780
+Saskatchewan,2021-10,22460
+Saskatchewan,2021-11,21580
+Saskatchewan,2021-12,20330
 Yukon,2019-01,640
 Yukon,2019-02,630
 Yukon,2019-03,650
@@ -459,6 +498,9 @@ Yukon,2021-04,1630
 Yukon,2021-05,1550
 Yukon,2021-06,1560
 Yukon,2021-07,1500
-Yukon,2021-08,1480
-Yukon,2021-09,1370
+Yukon,2021-08,1490
+Yukon,2021-09,1380
+Yukon,2021-10,970
+Yukon,2021-11,880
+Yukon,2021-12,800
 																											
